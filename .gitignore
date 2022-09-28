@@ -1,2 +1,4 @@
 __pycache__/
-twitter_api_info.py
+twitter_api.py
+*.pem
+*.csv
